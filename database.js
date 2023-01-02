@@ -12,7 +12,7 @@ var content = [
         cat : "css",
     },
     {
-        path : 'HTML.png ',
+        path : 'html.png ',
         title : "Learn HTML",
         price : 4,
         cat : "html",
